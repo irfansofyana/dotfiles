@@ -250,6 +250,9 @@ lvim.plugins = {
   },
   {
     "luochen1990/rainbow"
+  },
+  {
+    "kevinhwang91/rnvimr"
   }
 }
 
