@@ -249,9 +249,6 @@ lvim.plugins = {
     "ray-x/go.nvim"
   },
   {
-    "xavierchow/vim-swagger-preview"
-  },
-  {
     "luochen1990/rainbow"
   }
 }
