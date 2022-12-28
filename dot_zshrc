@@ -157,6 +157,7 @@ export PATH=$PATH:$TASKS_CLI/bin
 export GOROOT="/usr/local/go"
 export GOPATH="$HOME/go" # or any directory to put your Go code
 export PATH="$PATH:$GOROOT/bin:$GOPATH/bin"
+export GO111MODULE=on
 
 # LINKERD
 export PATH=$PATH:$HOME/.linkerd2/bin
